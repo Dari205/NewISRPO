@@ -1,0 +1,7 @@
+C:\Users\miron\Documents\шарага\идк рпм\лр1\bin\Debug\лр1.exe.config
+C:\Users\miron\Documents\шарага\идк рпм\лр1\bin\Debug\лр1.exe
+C:\Users\miron\Documents\шарага\идк рпм\лр1\bin\Debug\лр1.pdb
+C:\Users\miron\Documents\шарага\идк рпм\лр1\obj\Debug\лр1.csproj.AssemblyReference.cache
+C:\Users\miron\Documents\шарага\идк рпм\лр1\obj\Debug\лр1.csproj.CoreCompileInputs.cache
+C:\Users\miron\Documents\шарага\идк рпм\лр1\obj\Debug\лр1.exe
+C:\Users\miron\Documents\шарага\идк рпм\лр1\obj\Debug\лр1.pdb
