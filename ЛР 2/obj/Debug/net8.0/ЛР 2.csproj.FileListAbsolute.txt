@@ -1,0 +1,28 @@
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.AssemblyInfoInputs.cache
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.AssemblyInfo.cs
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.csproj.CoreCompileInputs.cache
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.exe
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.deps.json
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.runtimeconfig.json
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.dll
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.pdb
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.dll
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\refint\ЛР 2.dll
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.pdb
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.genruntimeconfig.cache
+C:\Users\miron\Documents\шарага\идк рпм\ЛР 2\ЛР 2\obj\Debug\net8.0\ref\ЛР 2.dll
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.AssemblyInfoInputs.cache
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.AssemblyInfo.cs
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.csproj.CoreCompileInputs.cache
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.dll
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\refint\ЛР 2.dll
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.pdb
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.exe
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.deps.json
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.runtimeconfig.json
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.dll
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\bin\Debug\net8.0\ЛР 2.pdb
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ЛР 2.genruntimeconfig.cache
+E:\КУРС 3\МДК 01.01\ЛР 2\ЛР 2\obj\Debug\net8.0\ref\ЛР 2.dll
