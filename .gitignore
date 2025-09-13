@@ -1,0 +1,20 @@
+# Временные файлы сборки
+bin/
+obj/
+*.pdb
+*.dll
+*.exe
+*.cache
+
+# Файлы IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Системные файлы
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
